@@ -1,0 +1,11 @@
+{
+  "name": "crontab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./caller.sh"
+  },
+  "author": "",
+  "license": "ISC"
+}
